@@ -1,6 +1,5 @@
 # TourLab
-Selamat Datang!
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Coming Soon! This page will be update on Wednesday
+## Introduction
+## Ongoing Project
+## Activities
